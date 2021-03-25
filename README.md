@@ -1,6 +1,21 @@
-# noticias_provider
+# Nike Shoes Store
 
-A new Flutter project.
+Nike shoes app design developed in Flutter implemnts Animation.
+
+![nikeshoes](/images/nikeshoes.gif)
+
+## Sections
+
+* Home
+* Details
+
+## Build it with:
+
+_Tools used to develop this app:_
+
+* [Flutter](https://flutter.dev/) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+* [NewsAPI](https://newsapi.ai/?gclid=CjwKCAjwxuuCBhATEiwAIIIz0dJCuScsraHlFyLqsi49ccl_z90PD2wLfZqxh9BPNebyPnD_d9wZeBoC4IsQAvD_BwE) - Easy to integrate news API that you can use in your products and services to obtain access to real-time as well as archive news content.
+
 
 ## Getting Started
 
@@ -14,3 +29,13 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+## Versioned
+
+I use [Git](https://git-scm.com/) for versioning.
+
+## Author/s
+
+_People handled to develop this app:_
+
+* **Alexis Hernández** - *Full work* - [alexis11hm](https://github.com/alexis11hm)
+
