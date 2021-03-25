@@ -1,16 +1,16 @@
-# Nike Shoes Store
+# News App
 
-Nike shoes app design developed in Flutter implemnts Animation.
+News app consume an API and show latest news
 
-![nikeshoes](/images/nikeshoes.gif)
+![news](/images/news.gif)
 
 ## Sections
 
-* Home
-* Details
+* For You
+* Header
 
 ## Build it with:
-
+compo
 _Tools used to develop this app:_
 
 * [Flutter](https://flutter.dev/) - Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
